@@ -7,9 +7,9 @@
 * npm run dev
 
 ## Tecnologias:
-Utilização : "build:watch": "tsc -w" e "build": "tsc" em package.json como transpilador typescript/javascript
+            "build:watch": "tsc -w" e "build": "tsc" em package.json como transpilador typescript/javascript
 
-             "dev": "nodemon ./dist/index.js" para correr a compilação automática
+            "dev": "nodemon ./dist/index.js" para correr a compilação automática
 
             "express": fornece os recursos para criação do servidor
             
