@@ -13,7 +13,7 @@
 
             "express": fornece os recursos para criação do servidor
             
-            mongoDb: base de dados 
+            mongoDb: base de dados utilizada no desenvolvimento do projeto
             
 ## Ferramentas:
   Utilizando o vscode como editor e insomnia para teste das urls
